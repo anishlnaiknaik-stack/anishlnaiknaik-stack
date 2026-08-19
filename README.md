@@ -1,27 +1,181 @@
-<h1 align="center">Hi 👋, I'm Anish Lokesh Naik</h1>
-<h3 align="center">Aspiring Full Stack Developer | Frontend & Backend Development</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Machine Learning Driven Health Advisor.**
+# 👋 Hi, I'm Anish Lokesh Naik
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB & REST APIs.**
+### 🚀 Aspiring Full Stack Developer | Building Web Applications | Learning & Growing
 
-- 👯 I’m looking to collaborate on **Full Stack & Open Source Web Projects.**
-
-- 🤝 I’m looking for help with **Advanced Backend Development & System Design.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anishlnaiknaik-stack](https://github.com/anishlnaiknaik-stack)
-
-- 💬 Ask me about **Full Stack Development, JavaScript, Python & Web Development.**
-
-- 📫 How to reach me **anishlnaiknaik@gmail.com**
-
-- ⚡ Fun fact **I enjoy building and learning new technologies.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anish-lokesh-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-lokesh-naik" height="30" width="40" /></a>
-<a href="https://instagram.com/anish._.naik07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anish._.naik07" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/anishlnaiknaik-stack">
+    <img src="https://img.shields.io/badge/GitHub-anishlnaiknaik--stack-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/anish-lokesh-naik">
+    <img src="https://img.shields.io/badge/LinkedIn-Anish%20Lokesh%20Naik-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anishlnaiknaik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=anishlnaiknaik-stack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science Engineering student passionate about **Full Stack Development** and building practical web applications.
+
+💻 Currently developing my skills across **frontend, backend, databases, APIs, and modern development tools**.
+
+🌱 Currently learning **React.js, Node.js, Express.js, MongoDB, and REST APIs**.
+
+🔭 Currently working on a **Machine Learning Driven Health Advisor** for chronic disease risk prediction and preventive care guidance.
+
+🤝 Interested in collaborating on **Full Stack and Open Source projects**.
+
+🎯 My goal is to become a **skilled Full Stack Developer** capable of building scalable and user-friendly applications.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+### 🏥 Machine Learning Driven Health Advisor
+
+**Chronic Disease Risk Prediction & Preventive Care Guidance System**
+
+A project focused on using machine learning to assess chronic disease risks and provide preventive-care guidance.
+
+**Current focus:**
+
+* 🌐 Web application development
+* 🧠 Machine learning integration
+* 🔌 Backend/API development
+* 🗄️ Database integration
+* 📊 Risk assessment and user guidance
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming Languages"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,git,github" alt="DevOps and Cloud Technologies"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anishlnaiknaik-stack&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishlnaiknaik-stack&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anishlnaiknaik-stack&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anishlnaiknaik-stack&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishlnaiknaik-stack&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/anishlnaiknaik-stack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishlnaiknaik-stack&repo=YOUR_PROJECT_REPOSITORY_NAME&hide_border=true" alt="Featured Project"/>
+</a>
+
+</div>
+
+> 💡 Replace `YOUR_PROJECT_REPOSITORY_NAME` with the actual repository name of your best project.
+
+### 🏥 Machine Learning Health Advisor
+
+**Machine Learning Driven Health Advisor: Chronic Disease Risk Prediction and Preventive Care Guidance System**
+
+🔗 [View Project](https://github.com/anishlnaiknaik-stack)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/anish-lokesh-naik">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:anishlnaiknaik@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/anishlnaiknaik-stack">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Improve. Repeat."
+
+⭐ Thanks for visiting my profile!
+
+</div>
