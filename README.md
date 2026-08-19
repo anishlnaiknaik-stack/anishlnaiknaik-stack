@@ -115,7 +115,7 @@ An O2O web platform that helps users discover second-hand electronic products av
 * 📞 Store contact details
 * 📦 Product request functionality
 
-🔗 **[View Project](https://github.com/anishlnaiknaik-stack)**
+🔗 **[View Project]([https://github.com/anishlnaiknaik-stack](https://github.com/anishlnaiknaik-stack/Loop-cart))**
 
 ---
 
