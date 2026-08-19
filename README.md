@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anish Lokesh Naik
 
-### 🚀 Aspiring Full Stack Developer | Building Web Applications | Learning & Growing
+### 🚀 Aspiring Full Stack Developer | Frontend & Backend Development
 
 <p>
   <a href="https://github.com/anishlnaiknaik-stack">
@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=anishlnaiknaik-stack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -38,7 +36,7 @@
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Currently Working On
 
 ### 🏥 Machine Learning Driven Health Advisor
 
@@ -90,65 +88,34 @@ A project focused on using machine learning to assess chronic disease risks and 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anishlnaiknaik-stack&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishlnaiknaik-stack&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anishlnaiknaik-stack&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anishlnaiknaik-stack&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishlnaiknaik-stack&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
 ## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/anishlnaiknaik-stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishlnaiknaik-stack&repo=YOUR_PROJECT_REPOSITORY_NAME&hide_border=true" alt="Featured Project"/>
-</a>
-
-</div>
-
-> 💡 Replace `YOUR_PROJECT_REPOSITORY_NAME` with the actual repository name of your best project.
 
 ### 🏥 Machine Learning Health Advisor
 
 **Machine Learning Driven Health Advisor: Chronic Disease Risk Prediction and Preventive Care Guidance System**
 
-🔗 [View Project](https://github.com/anishlnaiknaik-stack)
+A machine-learning-based system designed to assess chronic disease risks and provide preventive-care guidance.
+
+🔗 **[View Project](https://github.com/anishlnaiknaik-stack)**
+
+---
+
+### 🛒 LoopCart
+
+**Second-Hand Electronics Discovery & Store Connectivity Platform**
+
+An O2O web platform that helps users discover second-hand electronic products available near local stores.
+
+**Key features:**
+
+* 🔍 Product search
+* 💰 Product pricing
+* 🏪 Store information
+* 📍 Store location & map integration
+* 📞 Store contact details
+* 📦 Product request functionality
+
+🔗 **[View Project](https://github.com/anishlnaiknaik-stack)**
 
 ---
 
@@ -174,8 +141,8 @@ A project focused on using machine learning to assess chronic disease risks and 
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
+### 💡 Code. Learn. Build. Improve.
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!** 🚀
 
 </div>
